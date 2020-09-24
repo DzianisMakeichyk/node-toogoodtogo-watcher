@@ -1,0 +1,60 @@
+[
+  {
+    "item": {
+      "item_id": "56180",
+      "price": [Object],
+      "sales_taxes": [],
+      "tax_amount": [Object],
+      "price_excluding_taxes": [Object],
+      "price_including_taxes": [Object],
+      "value_excluding_taxes": [Object],
+      "value_including_taxes": [Object],
+      "taxation_policy": "PRICE_INCLUDES_TAXES",
+      "show_sales_taxes": false,
+      "value": [Object],
+      "cover_picture": [Object],
+      "logo_picture": [Object],
+      "name": "",
+      "description":
+        "Redd en forundringspose med deilig overskuddsmat hos Hallaisen og bli med i kampen mot matsvinn! Posen kan inneholde søtsaker som for eksempel boller og wienerbrød. Produktene leveres i samarbeid med Kafe Solros. \n" +
+        "\n" +
+        "Bestill og betal via appen, hent til angitt hentetidspunkt og nyt med god samvittighet. Husk å si takk for maten når du henter - det er god stil at Hallaisen ønsker å redusere matsvinnet sitt :-)",
+      "can_user_supply_packaging": false,
+      "packaging_option": "CANT_BRING_ANYTHING",
+      "collection_info": "",
+      "diet_categories": [],
+      "item_category": "OTHER",
+      "badges": [],
+      "favorite_count": 0,
+      "buffet": false
+    },
+    "store": {
+      "store_id": "53420s",
+      "store_name": "Hallaisen",
+      "branch": "",
+      "description": "",
+      "tax_identifier": "916868812",
+      "website": "",
+      "store_location": [Object],
+      "logo_picture": [Object],
+      "store_time_zone": "Europe/Oslo",
+      "hidden": false,
+      "favorite_count": 0,
+      "items": [Array],
+      "milestones": [Array],
+      "we_care": false
+    },
+    "display_name": "Hallaisen",
+    "pickup_interval": {
+      "start": "2020-09-24T14:30:48Z",
+      "end": "2020-09-24T15:00:48Z"
+    },
+    "pickup_location": { "address": [Object], "location": [Object] },
+    "purchase_end": "2020-09-24T14:30:48Z",
+    "items_available": 8,
+    "distance": 1004.5822342540923,
+    "favorite": true,
+    "in_sales_window": true,
+    "new_item": false
+  }
+]
