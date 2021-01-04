@@ -1,0 +1,32 @@
+{
+  "api": {
+    "session": {},
+    "headers": {
+      "User-Agent": "TooGoodToGo/20.6.1 (813) (iPhone/iPhone 7 (GSM); iOS 13.6; Scale/2.00)"
+    },
+    "pollingIntervalInMs": 30000,
+    "authenticationIntervalInMS": 3600000
+  },
+  "notifications": {
+    "console": {
+      "enabled": false,
+      "clear": true
+    },
+    "desktop": {
+      "enabled": false
+    },
+    "telegram": {
+      "enabled": true
+    }
+  },
+  "messageFilter": {
+    "showUnchanged": false,
+    "showDecrease": false,
+    "showDecreaseToZero": false,
+    "showIncrease": false,
+    "showIncreaseFromZero": true
+  },
+  "misc": {
+    "schedule": ["0-24"]
+  }
+}

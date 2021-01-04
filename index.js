@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+require("dotenv").config();
 const notifier = require("./lib/notifier");
 const { pollFavoriteBusinesses$ } = require("./lib/poller");
 const { editConfig, resetConfig, configPath } = require("./lib/config");

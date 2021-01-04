@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "conf": "^7.1.1",
+    "dotenv": "^8.2.0",
     "editor": "^1.0.0",
     "got": "^11.5.1",
     "lodash": "^4.17.19",
