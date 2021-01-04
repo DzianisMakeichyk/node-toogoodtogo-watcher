@@ -1,5 +1,9 @@
 {
   "api": {
+    "credentials": {
+      "email": "Email of your TooGoodToGo account.",
+      "password": "Password of your TooGoodToGo account."
+    },
     "session": {},
     "headers": {
       "User-Agent": "TooGoodToGo/20.6.1 (813) (iPhone/iPhone 7 (GSM); iOS 13.6; Scale/2.00)"
